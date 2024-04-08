@@ -1,0 +1,16 @@
+body,#root,.App{
+  height: 100vh;
+}
+.App{
+  text-align: center;
+  justify-content: center;
+  padding: 10%;
+}
+.shoe{
+  width: 90%;
+  border: 1px solid red;
+  border-radius: 1rem;
+  height: 50%;
+  padding: 10px;
+  margin: 1rem;
+}
